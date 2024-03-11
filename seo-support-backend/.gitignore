@@ -1,0 +1,15 @@
+# dependencies
+node_modules
+
+# misc
+.env
+
+# PhpStorm
+.idea
+
+# VSCode
+.vscode
+
+# auto-generated folders
+AI/input_for_score
+user_data/temp_data
